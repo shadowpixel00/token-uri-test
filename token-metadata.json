@@ -1,1 +1,12 @@
-
+{
+    "name": "SHADOW",
+    "symbol": "SHADE",
+    "description": "SHADOW's token on SOLANA",
+    "image": "https://raw.githubusercontent.com/shadowpixel00/token-uri-test/main/image.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
